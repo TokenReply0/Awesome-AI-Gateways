@@ -216,3 +216,12 @@ Thank you for exploring and using **Awesome AI Gateways**! If this curated guide
 
 **Made for AI engineers, developers, and teams building scalable LLM applications.**  
 Let's make LLM access more reliable, private, and cost-effective.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-AI-Gateways&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-AI-Gateways_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-AI-Gateways_growth.svg">
+  </picture>
+</a>
